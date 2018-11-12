@@ -17,4 +17,4 @@
 
 7. [Practical Data Science](http://www.win-vector.com/blog/2011/09/the-simpler-derivation-of-logistic-regression/)
 
-8. [Machine Learning Basic Concepts](https://github.com/ShuaiW/ml-interview#mlp)
+8. [Machine Learning Basic Concepts Explained](https://github.com/ShuaiW/ml-interview#mlp)
